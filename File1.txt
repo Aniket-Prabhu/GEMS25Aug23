@@ -6,5 +6,6 @@ There is prediction of rain
 function bug123(){
 //do something
 //do this to fix bug456
-//do nothing
+//do nothing 
+
 }
