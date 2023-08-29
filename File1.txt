@@ -1,12 +1,12 @@
 Hello,- Welcome
 This- is my practice session
-Today's- date - 25th Aug 2023 and today is Friday...
-Today- session is 10:00- 5:00
-There- is prediction of rain
-function- bug123(){
+Today's date - 25th Aug 2023 and today is Friday...
+Today session is 10:00- 5:00
+There is prediction of rain
+function bug123(){
 //do something
 //do this to fix bug456
 //do nothing 
-
 }
-i was working on WI implementation
+new feature implemented as per customer requirements
+
