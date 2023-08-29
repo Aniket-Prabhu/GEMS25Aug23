@@ -1,2 +1,4 @@
 A.class
 //to ignore all the class file use *.class
+*.jar
+UnitTest*
